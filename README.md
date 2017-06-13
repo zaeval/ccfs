@@ -1,6 +1,6 @@
 # How 2 Use
 
-import ccfs
+from ccfs import ccfs
 
 c = ccfs.Ccfs("asdff", 'f')
 
